@@ -37,7 +37,7 @@ public class Tesis {
     public void setRevisiones(String revisiones) {
         this.revisiones = revisiones;
     }
-
+~
     public void showInfo() {
 
         System.out.println("ID tesis: " + idTesis);
